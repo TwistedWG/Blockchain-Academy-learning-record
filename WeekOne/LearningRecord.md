@@ -1,12 +1,16 @@
-# ERC-20 代币标准
+#《精通以太坊》
 
-[ERC-20 代币标准][https://ethereum.org/zh/developers/docs/standards/tokens/erc-20/]
+[《精通以太坊》](https://github.com/inoutcode/ethereum_book)
 
-# 流动性挖矿-合约原理详解
+#以太坊官网介绍
 
-[流动性挖矿-合约原理详解][https://mirror.xyz/xyyme.eth/_yGLvqTXQCX-UYRp_sWMR7MuDDKWuEhOw0S5QqJXr84]
+[以太坊官网介绍](https://ethereum.org/en/developers/docs/evm/)
 
-# BSC测试网使用
+#Solidity开发文档
 
-[BSC测试网使用][https://docs.google.com/document/d/1hB3JYtf0iY7KyBDETM5OA3mWfM-f37tyZbaTRE6HeTo/edit#]
+[Solidity开发文档](https://docs.soliditylang.org/en/v0.8.19/)
+
+#使用Etherscan
+
+[使用Etherscan](https://talentre.academy/learn/detail?id=2)
 

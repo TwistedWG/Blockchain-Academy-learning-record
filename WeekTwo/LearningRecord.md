@@ -8,5 +8,4 @@
 
 # BSC测试网使用
 
-[BSC测试网使用][https://docs.google.com/document/d/1hB3JYtf0iY7KyBDETM5OA3mWfM-f37tyZbaTRE6HeTo/edit#]
-
+[BSC测试网使用][https://docs.google.com/document/d/1hB3JYtf0iY7KyBDETM5OA3mWfM-f37tyZbaTRE6HeTo/edit#]  
